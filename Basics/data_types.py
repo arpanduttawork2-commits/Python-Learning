@@ -18,3 +18,10 @@ print(sys.getsizeof(b))
 c=3+9j
 print(c, type(c))
 print(f"Real {c.real:.2f} Imaginary {c.imag:.2f}")
+
+#Boolean 
+b=True
+b=False
+
+comp1= 3>5
+print(comp1)
