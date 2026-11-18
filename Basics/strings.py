@@ -20,4 +20,12 @@ words=["hello", "world"]
 s4=";".join(words)
 print(s4)
 
+#Slicing
+s="hello"
+print(s[::-1])
+s="+919927488647"
+print(s[3:])
+s="python"
+print(f"'{s[-2:-6]}'")
+
 
