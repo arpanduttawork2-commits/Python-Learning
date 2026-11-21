@@ -16,3 +16,4 @@ print(s)
 #using f-string
 s=f"{name} is {age} years old"
 print(s)
+
